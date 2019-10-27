@@ -1,7 +1,31 @@
-h1 {
-  color: blue;
+h1, h2, p{
+  color: #ffa323;
+  text-align: center;
+
 }
 
-h2{
-  color: green;
+.alert-link {
+  color: #ff6337;
+  text-decoration: underline;
+}
+
+h3 {
+  color: #ffa323;
+}
+li {
+  color: #ffa323;
+}
+
+body {
+  padding: 20px;
+  font-family: 'Barlow', sans-serif;
+
+}
+
+iframe {
+  padding-left: 20%;
+}
+
+.border {
+  border: 35px solid;
 }
